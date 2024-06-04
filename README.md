@@ -4,3 +4,6 @@ Mission Interstellar is a Minecraft Modpack focused on Technology & Space Travel
 Keep your Temperature, Oxygen & Thirst in Check, Automate everything, Create Overpowered Powersuits to protect yourself from the Harsh Environment.. and anything else.
 
 Utilize all sorts of Heavy Machinery & turn planets into mere quarries
+
+Modrinth: https://modrinth.com/modpack/mission-interstellar
+Discord: https://discord.gg/6UCNT3beCX
