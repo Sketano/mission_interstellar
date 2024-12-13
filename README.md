@@ -1,9 +1,7 @@
-# Mission Interstellar
-Mission Interstellar is a Minecraft Modpack focused on Technology & Space Travel. Due to Humanity's Greed, Earth has been flipped upside down and turned into a Desolate Wasteland. Try to gather what few Materials are left & Construct yourself a Humble Rocket and explore other planets. Explore whole new frontiers, Discover new technologies & Conquer the Stars! Will you terraform Planets into Mining Havens, Or will you learn from the mistakes of your Predecessors & live a calm, peaceful life?
+# **Mission Interstellar**
+**Mission Interstellar** is a Minecraft Modpack focused on completely overhauling how you play Minecraft, You are dropped into a massive world beyond your comprehension
 
-Keep your Temperature, Oxygen & Thirst in Check, Automate everything, Create Overpowered Powersuits to protect yourself from the Harsh Environment.. and anything else.
+Explore new frontiers, Create unimaginably strong machines & conquer the stars! Riches beyond comprehension, but be careful of the unimaginable horrors that you will inevitably bring with you... Keep your Hungry, Thirst & Temperature in Check, Automate all sorts of resources, and create overpowered sets of armor to protect yourself from the Harsh Environment... and whatever else is awaiting you in the wide expanse of space. 
 
-Utilize all sorts of Heavy Machinery & turn planets into mere quarries
-
-Modrinth: https://modrinth.com/modpack/mission-interstellar
+Modrinth:
 Discord: https://discord.gg/6UCNT3beCX
