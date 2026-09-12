@@ -1,3 +1,6 @@
+# Revitalization
+9/12/2026: A new mod, much more promising than Liftoff, has been in the works for a while now. With the release of Sable, Mission Interstellar sees a potential revitalization 
+
 # Cancelled
 5/1/2025: As Liftoff was officially announced as dead a couple of days ago, this project is no longer feasible to do. As of today, this project is cancelled for the foreseeable future. Sorry.
 
